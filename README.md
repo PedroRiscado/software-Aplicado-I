@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="/img/Back.png" width="355" title=""><br>
+<img src="/img/back.png" width="355" title=""><br>
   <!-- 355 X 110 px o logo --!>
 <h2 align="center">Sistema para documentação de redes de internet FTTH</h2>
 </p>
