@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="/img/Back3.png" width="355" title=""><br>
+<img src="/img/Back4.png" width="355" title=""><br>
   <!-- 355 X 110 px o logo --!>
 <h2 align="center">Sistema de gerenciamento de ordens de serviço</h2>
 </p>
