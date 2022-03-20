@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="/img/Back-ground.png" width="350" title="Fibermap"><br>
+<img src="/img/Back-ground.png" width="350" title=""><br>
   <!-- 355 X 110 px o logo --!>
 <h2 align="center">Sistema para documentação de redes de internet FTTH</h2>
 </p>
